@@ -1,0 +1,23 @@
+My own game: C-44
+
+Playing character = Villagers(1,2,3)
+Non-Playing Character(AI) = Coins, Power-ups, the track, Enemies
+Story: Villagers are traveling around town to find some coins to feed their village. In this story, there will be multiple villagers and there will be power-ups that will increase their next few coins by X2. When you reach the end of the match, the message will display either you are wealthy and healthy, You are healthy, or you need some assistance. 
+Goal: To become healthy and wealthy, and supply your family with enough goods.
+Rules: 
+-Use the arrow keys to control the player. 
+-shoot the arrows to destroy the opposing enemies. 
+-If the villager hits the animal, the villager is taken out of the game. 
+Balance of the Game: You can use power-ups to make your family and yourself wealthier. 
+Adaptivity: As the game progresses, the enemies will increase speed, and the movement of the ground will eventually speed up.
+Chance vs Skill: You will receive power-ups, that will bag twice your points. There will also be animals trying to stop you down since the story takes place in a forest. 
+Feedback: Once the game is over, there will be a sound and a message that says game over. There will also be a noise once a villager touches a coin. Every coin is also worth 10 points. 
+
+
+Class 1:  Creating my game objects, and making a game state Play and End. 
+
+Class 2: I am also going to work on my moving background. For example, once it hits 3680 studs, the game stops. I am also going to work on spawn enemies 
+
+Class 3: Points, and the concept of a villager throwing an arrow 
+
+Class 4: Debugging, adding sound, and making an apk file 
